@@ -53,7 +53,7 @@ http:\\saga10.pro:80\345715\562156\1263045
 http:\\saga10.pro:80\345715\562156\1263046
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Hbo",Hbo Family
 http:\\saga10.pro:80\345715\562156\1263051
-#EXTINF:-1 tvg-id="" tvg-name="Hbo Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDl2-JlIOISG-Ut71WzCwE8vw9mdBeeUOuJg&s" group-title="Hbo",Hbo Family
+#EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDl2-JlIOISG-Ut71WzCwE8vw9mdBeeUOuJg&s" group-title="Hbo",Hbo Mundi
 http:\\saga10.pro:80\345715\562156\1263054
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Hbo",Hbo Pop
 http:\\saga10.pro:80\345715\562156\1263057
@@ -65,6 +65,20 @@ http:\\saga10.pro:80\345715\562156\1263063
 http:\\saga10.pro:80\345715\562156\1263372
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/640px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="Paramount",Paramount
 http:\\saga10.pro:80\345715\562156\2639920
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest?cb=20160228233323" group-title="Telecine",Telecine Action
+http:\\saga10.pro:80\345715\562156\1263090
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Telecine",Telecine Cult
+http:\\saga10.pro:80\345715\562156\1263093
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Telecine",Telecine Fun
+http:\\saga10.pro:80\345715\562156\1263096
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Telecine",Telecine Pipoca
+http:\\saga10.pro:80\345715\562156\1263099
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Telecine",Telecine Premium
+http:\\saga10.pro:80\345715\562156\1263101
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Telecine",Telecine Touch
+http:\\saga10.pro:80\345715\562156\1263104
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="TNT",TNT
+http:\\saga10.pro:80\345715\562156\2639936
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 2
 http:\\saga10.pro:80\345715\562156\2909015
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 3
@@ -87,3 +101,5 @@ http:\\saga10.pro:80\345715\562156\2909004
 http:\\saga10.pro:80\345715\562156\2909007
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/e/e1/Patroa.jpeg/revision/latest/scale-to-width-down/1200?cb=20230729093711&path-prefix=pt-br" group-title="Series",Eu a Patroa e as Crianças
 http:\\saga10.pro:80\345715\562156\2627295
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://classic.exame.com/wp-content/uploads/2022/08/Todo-Mundo-Odeia-o-Chris.jpg" group-title="Series",Todo Mundo Odeia o Cris
+http:\\saga10.pro:80\345715\562156\2627330
