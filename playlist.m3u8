@@ -18,6 +18,9 @@ http://saga10.pro:80/345715/562156/1263342
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canal do Boi",Canal do Boi
 http://saga10.pro:80/345715/562156/1263156
 
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gloob_logo_%28blue%29.svg/2560px-Gloob_logo_%28blue%29.svg.png" group-title="Gloob",Gloob
+http://saga10.pro:80/345715/562156/1263444
+
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon Network",Cartoon Network
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120594
 
@@ -93,7 +96,7 @@ http://saga10.pro:80/345715/562156/1263060
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Hbo",Hbo Xtreme
 http://saga10.pro:80/345715/562156/1263063
 
-#EXTINF:-1 tvg-id="" tvg-name="Comedy central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Comedy central",Comedy central
+#EXTINF:-1 tvg-id="" tvg-name="comedy central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="comedy central",comedy central
 http://saga10.pro:80/345715/562156/1263372
 
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/640px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="Paramount",Paramount
@@ -106,7 +109,7 @@ http://saga10.pro:80/345715/562156/1263090
 http://saga10.pro:80/345715/562156/1263093
 
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Telecine",Telecine Fun
-http://saga10.pro:80/345715/562156/1263095
+http://saga10.pro:80/345715/562156/1263096
 
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Telecine",Telecine Pipoca
 http://saga10.pro:80/345715/562156/1263099
