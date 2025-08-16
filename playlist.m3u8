@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo Paraíba" tvg-logo="https://pbs.twimg.com/profile_images/1852423445704818688/X7E2_TVO_400x400.jpg" group-title="Globo",Globo Paraíba
+http:\\saga10.pro:80\345715\562156\2639730
 #EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Globo",Globo
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120635
 #EXTINF:-1 tvg-id="" tvg-name="Sbt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="Sbt",Sbt
@@ -7,7 +9,13 @@ http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120737
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120725
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon Network",Cartoon Network
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120594
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" group-title="Cartoon Network",Cartoonito
+http:\\saga10.pro:80\345715\562156\1263436
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nickelodeon_2023_logo_%28alternative%29.svg/1200px-Nickelodeon_2023_logo_%28alternative%29.svg.png" group-title="Nickelodeon",Nickelodeon
 http://saga10.pro:80/345715/562156/1263453
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Nick",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Nickelodeon",Nick Jr.
 http://saga10.pro:80/345715/562156/1263454
+#EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://s2-globo-play.glbimg.com/F6Ohiq9QYBqeltRMG1RAuxkQWv8=/362x536/https://s2-globo-play.glbimg.com/gYLjjK-NEKLWh8twRVT7B2VovaA=/https://s2.glbimg.com/ie9s9vNcFAjUUsY9Lk1CyJWzCNg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/L/y/6YwROFReOGYCu79CGKrQ/2025-4851-chaves-poster.jpg" group-title="Desenhos",Chaves
+http:\\saga10.pro:80\345715\562156\2627291
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://s2-globo-play.glbimg.com/X136fPX0e7m2kLAWr_1OJCF_l7U=/362x536/https://s2-globo-play.glbimg.com/Fp6VO1Kb-1vT6ub2ij7uSUAxhgo=/https://s2.glbimg.com/pZ90v7IdLoHEfXK0Q4aVPfZJcCA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/H/A/7Hqtc9RFOcX3fpus0GMQ/2025-4852-chapolin-colorado-poster.jpg" group-title="Desenhos",Chapolin Colorado
+http:\\saga10.pro:80\345715\562156\2627290
