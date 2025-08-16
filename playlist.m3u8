@@ -1,105 +1,157 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="Globo Paraíba" tvg-logo="https://pbs.twimg.com/profile_images/1852423445704818688/X7E2_TVO_400x400.jpg" group-title="Globo",Globo Paraíba
 http:\\saga10.pro:80\345715\562156\2639730
+
 #EXTINF:-1 tvg-id="" tvg-name="Globo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="Globo",Globo
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120635
+
 #EXTINF:-1 tvg-id="" tvg-name="Sbt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="Sbt",Sbt
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120737
+
 #EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="https://play-lh.googleusercontent.com/86YxRYXi1bikmEQInrLFY7913Ng0xgzwZPuXU5k7NWnePoxX4E6UxMK8I5axLJZqWsDb" group-title="Record",Record
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120725
+
 #EXTINF:-1 tvg-id="" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Cultura",Cultura
 http:\\saga10.pro:80\345715\562156\1263342
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canal do Boi",Canal do Boi
 http:\\saga10.pro:80\345715\562156\1263156
+
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon Network",Cartoon Network
 http://lunar.pm:8080/2052023680/mvpQrGT27dkS/120594
+
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" group-title="Cartoon Network",Cartoonito
 http:\\saga10.pro:80\345715\562156\1263436
+
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nickelodeon_2023_logo_%28alternative%29.svg/1200px-Nickelodeon_2023_logo_%28alternative%29.svg.png" group-title="Nickelodeon",Nickelodeon
 http://saga10.pro:80/345715/562156/1263453
+
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Nickelodeon",Nick Jr.
 http://saga10.pro:80/345715/562156/1263454
+
 #EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://s2-globo-play.glbimg.com/F6Ohiq9QYBqeltRMG1RAuxkQWv8=/362x536/https://s2-globo-play.glbimg.com/gYLjjK-NEKLWh8twRVT7B2VovaA=/https://s2.glbimg.com/ie9s9vNcFAjUUsY9Lk1CyJWzCNg=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/L/y/6YwROFReOGYCu79CGKrQ/2025-4851-chaves-poster.jpg" group-title="Desenhos",Chaves
 http:\\saga10.pro:80\345715\562156\2627291
+
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://s2-globo-play.glbimg.com/X136fPX0e7m2kLAWr_1OJCF_l7U=/362x536/https://s2-globo-play.glbimg.com/Fp6VO1Kb-1vT6ub2ij7uSUAxhgo=/https://s2.glbimg.com/pZ90v7IdLoHEfXK0Q4aVPfZJcCA=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/H/A/7Hqtc9RFOcX3fpus0GMQ/2025-4852-chapolin-colorado-poster.jpg" group-title="Desenhos",Chapolin Colorado
 http:\\saga10.pro:80\345715\562156\2627290
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky
 http:\\saga10.pro:80\345715\562156\3014766
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 2
 http:\\saga10.pro:80\345715\562156\3014767
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 3
 http:\\saga10.pro:80\345715\562156\3014768
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 4
 http:\\saga10.pro:80\345715\562156\3014769
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 5
 http:\\saga10.pro:80\345715\562156\3014770
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 6
 http:\\saga10.pro:80\345715\562156\3014771
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 7
 http:\\saga10.pro:80\345715\562156\3014772
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 8
 http:\\saga10.pro:80\345715\562156\3014773
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 9
 http:\\saga10.pro:80\345715\562156\3014774
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 10
 http:\\saga10.pro:80\345715\562156\3014775
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 11" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 11
 http:\\saga10.pro:80\345715\562156\2151034
+
 #EXTINF:-1 tvg-id="" tvg-name="Cine Sky 12" tvg-logo="https://www.sky.com.br/o/sky-pre-theme/images/sky_icon.png" group-title="Cine Sky",Cine Sky 12
 http:\\saga10.pro:80\345715\562156\2151033
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Hbo",Hbo
 http:\\saga10.pro:80\345715\562156\1263045
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Hbo",Hbo 2
 http:\\saga10.pro:80\345715\562156\1263046
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="Hbo",Hbo Family
 http:\\saga10.pro:80\345715\562156\1263051
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDl2-JlIOISG-Ut71WzCwE8vw9mdBeeUOuJg&s" group-title="Hbo",Hbo Mundi
 http:\\saga10.pro:80\345715\562156\1263054
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Hbo",Hbo Pop
 http:\\saga10.pro:80\345715\562156\1263057
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Hbo",Hbo Signature
 http:\\saga10.pro:80\345715\562156\1263060
+
 #EXTINF:-1 tvg-id="" tvg-name="Hbo Xtreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Hbo",Hbo Xtreme
 http:\\saga10.pro:80\345715\562156\1263063
-#EXTINF:-1 tvg-id="" tvg-name="comedy central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="comedy central",comedy central
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Comedy central",Comedy central
 http:\\saga10.pro:80\345715\562156\1263372
+
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/640px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="Paramount",Paramount
 http:\\saga10.pro:80\345715\562156\2639920
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png/revision/latest?cb=20160228233323" group-title="Telecine",Telecine Action
 http:\\saga10.pro:80\345715\562156\1263090
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png/revision/latest?cb=20160228235112" group-title="Telecine",Telecine Cult
 http:\\saga10.pro:80\345715\562156\1263093
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="Telecine",Telecine Fun
 http:\\saga10.pro:80\345715\562156\1263096
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Telecine",Telecine Pipoca
 http:\\saga10.pro:80\345715\562156\1263099
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Telecine",Telecine Premium
 http:\\saga10.pro:80\345715\562156\1263101
+
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="Telecine",Telecine Touch
 http:\\saga10.pro:80\345715\562156\1263104
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="TNT",TNT
 http:\\saga10.pro:80\345715\562156\2639936
+
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 2
 http:\\saga10.pro:80\345715\562156\2909015
+
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 3
 http:\\saga10.pro:80\345715\562156\2909018
+
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 4
 http:\\saga10.pro:80\345715\562156\2909021
+
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 5
 http:\\saga10.pro:80\345715\562156\2909024
+
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 6
 http:\\saga10.pro:80\345715\562156\2909027
+
 #EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Premiere 7
 http:\\saga10.pro:80\345715\562156\2909030
+
 #EXTINF:-1 tvg-id="" tvg-name="Primiere Clubes" tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Premiere",Primiere Clubes
 http:\\saga10.pro:80\345715\562156\2909035
+
 #EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="Sportv",Sportv
 http:\\saga10.pro:80\345715\562156\2909010
+
 #EXTINF:-1 tvg-id="" tvg-name="Sportv 2" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="Sportv",Sportv 2
 http:\\saga10.pro:80\345715\562156\2909004
+
 #EXTINF:-1 tvg-id="" tvg-name="Sportv 3" tvg-logo="https://bestswimming.swimchannel.net/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="Sportv",Sportv 3
 http:\\saga10.pro:80\345715\562156\2909007
+
 #EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/e/e1/Patroa.jpeg/revision/latest/scale-to-width-down/1200?cb=20230729093711&path-prefix=pt-br" group-title="Series",Eu a Patroa e as Crianças
 http:\\saga10.pro:80\345715\562156\2627295
+
 #EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="https://classic.exame.com/wp-content/uploads/2022/08/Todo-Mundo-Odeia-o-Chris.jpg" group-title="Series",Todo Mundo Odeia o Cris
 http:\\saga10.pro:80\345715\562156\2627330
